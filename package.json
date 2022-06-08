@@ -1,0 +1,8 @@
+{
+  "name": "mari-lib",
+  "version": "1.0.0",
+  "description": "util lib",
+  "main": "index.js",
+  "author": "mari",
+  "license": "MIT"
+}
