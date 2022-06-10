@@ -1,1 +1,1 @@
-export const downloadByBlob = () => {}
+export default () => {}

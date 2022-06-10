@@ -1,4 +1,4 @@
-export const printByIframe = dom => {
+export default (dom = document.body) => {
   if (!(dom instanceof HTMLElement)) {
     throw new Error('传入参数不是一个HTML元素')
   }
