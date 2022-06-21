@@ -1,3 +1,7 @@
+/**
+ * 执行打印操作
+ * @params dom 需要被打印的元素
+ */
 export default (dom = document.body) => {
   if (!(dom instanceof HTMLElement)) {
     throw new Error('传入参数不是一个HTML元素')
