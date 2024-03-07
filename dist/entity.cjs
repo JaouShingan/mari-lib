@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,Symbol.toStringTag,{value:"Module"});class h{constructor(t){const{name:e,key:s,component:i,attrs:n,span:o,hide:r,itemAttrs:a}=t;this.name=e,this.key=s,this.component=i,this.attrs=n,this.span=o,this.hide=r,this.itemAttrs=a}}exports.Field=h;

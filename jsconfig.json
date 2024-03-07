@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"],
+      "mari-lib/*": ["src/*"]
+    },
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules", "dist"]
+}
